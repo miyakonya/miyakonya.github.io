@@ -1,39 +1,39 @@
-# Chirpy Starter
+# 技术经验知识分享博客 | 编程与网络安全技术学习日记
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+欢迎来到我的技术博客仓库
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+本博客记录我在编程与网络安全学习过程中的实践经验、问题复盘与技术总结，
+侧重理解原理与实际应用，而非单纯教程。
 
-## Why This Starter Exists
+## 我的博客网站
+https://miyakonya.github.io/
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
+---
 
-To unlock all features, the following files must be present in your Jekyll site:
+## 涵盖的内容
+> *点击图标可跳转相关介绍*
+### 编程
+* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://baike.baidu.com/item/Python/407313)：Python基础知识、面向对象、常用模块
+* [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://baike.baidu.com/item/java)： Java基础知识、面向对象、stream流、IO流
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
 
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
+### Linux
+* 常用命令
+* 常用服务部署(Apache2、Nginx、Docker等)
+* [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)](https://baike.baidu.com/item/arch/1614148)： Arch Linux安装
 
-## Usage
+### 网络安全
+* 靶场搭建
+* Web安全(SQL注入/XSS攻击/CSRF等)
+* 渗透测试工具使用
+* 内网安全
+* 中间人攻击
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+---
 
-## Contributing
+## ?? Disclaimer
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+> 本仓库内容仅用于编程与网络安全学习与研究，所有技术仅限在合法授权环境下测试。
+> 禁止用于任何未授权攻击或非法用途，由此产生的后果由使用者自行承担。
+>
+> For educational purposes only. Use in authorized environments only. No illegal use.
