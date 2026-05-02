@@ -1,8 +1,8 @@
 ---
-title: Linux基础笔记
+title: 我的第一篇博客
 date: 2026-05-02 20:00:00 +0800
-categories: [Linux]
-tags: [运维,基础]
+categories: [Blog]
+tags: [测试]
 ---
 
 # Linux基础
