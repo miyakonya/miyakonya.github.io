@@ -1,3 +1,9 @@
+---
+title: About
+icon: fas fa-info-circle
+order: 4
+---
+
 ## 关于我
 一名正在学习网络安全和Linux的学习者，热衷于学习计算机、分享知识、帮助小白。专注于原理和实践。
 目前方向：
