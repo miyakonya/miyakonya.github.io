@@ -1,0 +1,12 @@
+#decor-image {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+#decor-image img {
+  width: 200px;
+  opacity: 0.3;
+}
