@@ -1,14 +1,13 @@
-#decor-img {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  z-index: 9999;
-  pointer-events: none;
+#ema {
+  position: fixed;     /* ⭐ 关键：固定在屏幕，不随滚动 */
+  bottom: 20px;        /* 距离底部 */
+  right: 20px;         /* 距离右侧 */
+  z-index: 9999;       /* 保证在上层 */
+  pointer-events: none;/* ⭐ 关键：不挡点击 */
 }
 
-#decor-img img {
-  width: 15vw;
-  max-width: 220px;
-  height: auto;
-  opacity: 0.4;
+#ema img {
+  width: 150px;        /* 控制大小 */
+  height: auto;        /* 保持比例 */
+  opacity: 0.35;       /* 半透明 */
 }
